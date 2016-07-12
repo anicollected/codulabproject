@@ -1,2 +1,2 @@
 # codulabproject
-Homee page design with html and css
+Home page design with html and css
